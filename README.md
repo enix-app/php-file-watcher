@@ -11,7 +11,7 @@ Download [Socket.IO JS](https://socket.io), then put the following script:
 var socket = io('http://127.0.0.1:2021');
 socket.on('file_update', function (data) {
   console.log(data);
-	window.location.reload();
+  window.location.reload();
 });
 ```
 
