@@ -15,7 +15,7 @@ socket.on('file_update', function (data) {
 });
 ```
 
-Download PHAR file from this repo.
+Download PHAR (``watch``) file from this repo, the file size only 160kB.
 
 Open your terminal from your root project directory. Start with the following commands:
 
