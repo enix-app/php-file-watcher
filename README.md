@@ -49,7 +49,7 @@ This config is hitchhiking within ``composer.json`` file:
         "watcher": {
             "port": 2021,
             "directory": "./",
-            "extensions": ["php", "js", "css", "vue", "md"],
+            "extensions": ["php", "js", "css", "html", "md"],
             "cache-dir": "./writable/cache/"
         }
     }
